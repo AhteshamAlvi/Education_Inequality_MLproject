@@ -3,6 +3,8 @@ Education Inequality – Student Performance
 
 This project explores how socioeconomic background and study habits relate to college performance. Using a publicly available student‑performance dataset, it runs three hypothesis tests, visualizes the results, and trains baseline regression models to predict cumulative college GPA.
 
+Page: https://ahteshamalvi.github.io/Education_Inequality_MLproject/ 
+
 Project contents
 ----------------
 - `main.py` – end‑to‑end exploratory analysis, hypothesis tests, visualizations, and two GPA prediction models (Linear Regression and Random Forest).
@@ -11,7 +13,7 @@ Project contents
 - `ResearchInformation3.csv` – input data (student demographics, academic history, habits, and outcomes).
 - `EdIneqFull.ipynb` / `index.html` – notebook and HTML export of earlier exploration.
 
-Dataset at a glance
+Dataset
 -------------------
 Source: “Student Performance Metrics” (Mendeley Data: https://data.mendeley.com/datasets/5b82ytz489/1).  
 Rows: 400 students (CSV header shown below).
